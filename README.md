@@ -1,1 +1,1 @@
-# https://thejuliana.io/stroyproekt
+# https://thejuliana.github.io/stroyproekt
