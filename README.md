@@ -1,1 +1,2 @@
-# https://thejuliana.github.io/stroyproekt
+# Сайт кривой, потому что могу себе позволить...
+## https://thejuliana.github.io/stroyproekt
